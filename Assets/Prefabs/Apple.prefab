@@ -134,6 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   collected: {fileID: 121569507223797851}
+  Score: 10
 --- !u!1 &121569507223797851
 GameObject:
   m_ObjectHideFlags: 0
